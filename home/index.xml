@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on </title>
     <link>/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -27,8 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography I am a PhD student with bioengineering specialization and majoring in Electrical Engineering at Iowa State University. I work in Micro/Nano Systems Lab. My research interests include applying computer vision, machine learning techniques to analyze biomedical samples and solve real world problems.</description>
     </item>
     
     <item>
@@ -50,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>My Publications</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
