@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>/publication/melanoma-detection/</loc>
+      <lastmod>2018-08-24T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/nematode-egg-counting/</loc>
+      <lastmod>2018-08-23T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/scn-avicta/</loc>
       <lastmod>2018-06-18T00:00:00-05:00</lastmod>
     </url>
@@ -87,6 +103,15 @@
     
       <loc>/publication_types/2/</loc>
       <lastmod>2018-06-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/3/</loc>
+      <lastmod>2018-08-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
